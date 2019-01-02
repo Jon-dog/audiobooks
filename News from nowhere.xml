@@ -1,0 +1,362 @@
+<?xml version="1.0" ?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title><![CDATA[News From Nowhere by MORRIS, William]]></title>
+  <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+  <atom:link rel="self" href="https://librivox.org/rss/5766" />
+  <description><![CDATA[News from Nowhere (1890) is a classic work combining utopian socialism and soft science fiction written by the artist, designer and socialist pioneer William Morris. In the book, the narrator, William Guest, falls asleep after returning from a meeting of the Socialist League and awakes to find himself in a future society based on common ownership and democratic control of the means of production. In this society there is no private property, no big cities, no authority, no monetary system, no divorce, no courts, no prisons, and no class systems. This agrarian society functions simply because the people find pleasure in nature, and therefore they find pleasure in their work. In the novel, Morris tackles one of the most common criticisms of socialism; the supposed lack of incentive to work in a communistic society. Morris' response is that all work should be creative and pleasurable. (Summary by Wikipedia)]]></description>
+  <!--<genre>project element=Genre</genre>-->
+  <!--<language>project element=lang.code</language>-->
+  <itunes:author>LibriVox</itunes:author>
+  <itunes:summary><![CDATA[News from Nowhere (1890) is a classic work combining utopian socialism and soft science fiction written by the artist, designer and socialist pioneer William Morris. In the book, the narrator, William Guest, falls asleep after returning from a meeting of the Socialist League and awakes to find himself in a future society based on common ownership and democratic control of the means of production. In this society there is no private property, no big cities, no authority, no monetary system, no divorce, no courts, no prisons, and no class systems. This agrarian society functions simply because the people find pleasure in nature, and therefore they find pleasure in their work. In the novel, Morris tackles one of the most common criticisms of socialism; the supposed lack of incentive to work in a communistic society. Morris' response is that all work should be creative and pleasurable. (Summary by Wikipedia)]]></itunes:summary>
+  <itunes:owner>
+    <itunes:name>LibriVox</itunes:name>
+    <itunes:email>info@librivox.org</itunes:email>
+  </itunes:owner>
+  <itunes:category text="Arts">
+    <itunes:category text="Literature" />
+  </itunes:category>
+  <!-- file loop -->
+    <item>
+    <title><![CDATA[Chapter 1, Discussion and Bed]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_01_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:14]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_01_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 2, A Morning Bath]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_02_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:16:53]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_02_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 3, The Guest House and Breakfast Therein]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_03_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:19:20]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_03_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 4, A Market By the Way]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_04_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:06:37]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_04_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 5, Children on the Road]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_05_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:04]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_05_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 6, A Little Shopping]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_06_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:14:55]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_06_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 7, Trafalgar Square]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_07_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:15:21]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_07_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 8, An Old Friend]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_08_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:07:32]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_08_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 9, Concerning Love]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_09_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:03]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_09_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 10, Questions and Answers]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_10_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:24:02]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_10_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 11, Concerning Government]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_11_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:40]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_11_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 12, Concerning the Arrangement of Life]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_12_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:23]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_12_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 13, Concerning Politics and Chapter 14, How Matters Are Arranged]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_13_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:00]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_13_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 15, On the Lack of Incentive to Labour in a Communist Society]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_14_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:03]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_14_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 16, Dinner in the Hall of Bloomsbury Market]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_15_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:36]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_15_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 17, Part 1, How the Change Came]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_16_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:31:11]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_16_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 17, Part 2, How the Change Came]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_17_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:27:38]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_17_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 18, The Beginning of the New Life]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_18_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:08]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_18_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 19, The Drive Back to Hammersmith]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_19_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:00]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_19_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 20, The Hammersmith Guest House Again, and Chapter 21, Going Up the River]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_20_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:13]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_20_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 22, Hampton Court and a Praiser of Past Times]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_21_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:20:46]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_21_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 23, An Early Morning By Runnymede]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_22_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:11:57]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_22_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 24, Up the Thames: The Second Day]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_23_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:18:31]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_23_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 25, The Third Day on the Thames]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_24_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:59]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_24_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 26, The Obstinate Refusers]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_25_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:09:08]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_25_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 27, The Upper Waters]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_26_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:22:33]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_26_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 28, The Little River]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_27_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:08:22]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_27_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 29, A Resting-Place on the Upper Thames]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_28_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:06]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_28_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 30, The Journey's End]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_29_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:12:04]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_29_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 31, An Old House Amongst New Folk]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_30_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:10:50]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_30_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <item>
+    <title><![CDATA[Chapter 32, The Feast's Beginning - The End]]></title>
+    <!--<reader>file element=reader</reader> -->
+    <link><![CDATA[https://librivox.org/news-from-nowhere-by-william-morris/]]></link>
+            <enclosure url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_31_morris_64kb.mp3" length="0" type="audio/mpeg" />
+  <itunes:explicit>No</itunes:explicit>
+  <itunes:block>No</itunes:block>
+  <itunes:duration><![CDATA[00:13:15]]></itunes:duration>
+  <!--<pubDate>file element=rss.pubDate</pubDate>-->
+  <media:content url="http://www.archive.org/download/newsfromnowhere_etk_librivox/newsfromnowhere_31_morris_64kb.mp3" type="audio/mpeg" />
+ </item>
+    <!-- end file loop -->
+</channel>
+</rss>
